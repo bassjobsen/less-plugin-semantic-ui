@@ -1,4 +1,4 @@
-less-plugin-lesshat
+less-plugin-semantic-ui
 ========================
 
 Imports [Semantic UI](http://www.semantic-ui.com) Less code before your custom Less code.
@@ -18,7 +18,7 @@ and then on the command line,
 ```
 lessc file.less --semantic-ui
 ```
-
+Notice that your working directory should contain a valid [theme.config]() file.
 
 ## Programmatic usage
 
